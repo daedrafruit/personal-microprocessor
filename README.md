@@ -1,3 +1,8 @@
+**Custom Microprocessor made in Digital by Helmut Neemann**
+_______________________________________  
+**Instructions**
+_______________________________________  
+
 ---- 0000 = clear flags  
 ---- 0001 = load  
 ---- 0010 = store  
@@ -15,13 +20,16 @@
 ---- 1101 = AND  
 ---- 1110 = OR  
 ---- 1111 = XOR  
+
+_______________________________________  
+**Clock Cycles**
 _______________________________________  
 Micro Instructions  
-1: pc enable, mar set, bus1 enable, acc set   
+0: pc enable, mar set, bus1 enable, acc set   
   
-2: ram enable, inst set  
+1: ram enable, inst set  
   
-3: acc enable, pc set  
+2: acc enable, pc set  
 _______________________________________  
 ALU  
   
@@ -44,11 +52,11 @@ Store b into address a
 _______________________________________  
 Move value from next instruction into b  
   
-4: pc enable, mar set, bus1 enable, acc set  
+3: pc enable, mar set, bus1 enable, acc set  
   
-5: ram enable, register(b) set  
+4: ram enable, register(b) set  
   
-6: acc enable, pc set  
+5: acc enable, pc set  
 _______________________________________  
 Jump to location in b  
   
