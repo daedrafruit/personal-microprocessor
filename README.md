@@ -1,19 +1,33 @@
 ---- 0000 = clear flags
+
 ---- 0001 = load
+
 ---- 0010 = store
+
 ---- 0011 = mov immediate
+
 ---- 0100 = jump register
+
 ---- 0101 = jump addres
+
 ---- 0110 = jump conditional
+
 ---- 0111 = nop
 
 ---- 1000 = ADD
+
 ---- 1001 = CMP
+
 ---- 1010 = SHL
+
 ---- 1011 = SHR
+
 ---- 1100 = NOT
+
 ---- 1101 = AND
+
 ---- 1110 = OR
+
 ---- 1111 = XOR
 _______________________________________
 Micro Instructions
