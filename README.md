@@ -1,4 +1,4 @@
-**Custom Microprocessor made in Digital by Helmut Neemann**
+**Custom Microprocessor made in [Digital]([https://github.com](https://github.com/hneemann/Digital))**  
 _______________________________________  
 **Instructions**
 _______________________________________  
