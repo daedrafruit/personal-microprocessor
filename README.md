@@ -1,4 +1,6 @@
 **Custom Microprocessor made in [Digital](https://github.com/hneemann/Digital)**  
+Found in programs folder are some simples tests (some WIP).  
+I used [Customasm](https://github.com/hlorenzi/customasm) to make the programming process much less of a headache.   
 _______________________________________  
 **Instructions**
 _______________________________________  
