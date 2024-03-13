@@ -1,4 +1,4 @@
-**Custom Microprocessor made in [Digital]([https://github.com](https://github.com/hneemann/Digital))**  
+**Custom Microprocessor made in [Digital](https://github.com/hneemann/Digital)**  
 _______________________________________  
 **Instructions**
 _______________________________________  
